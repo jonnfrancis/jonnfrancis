@@ -1,4 +1,4 @@
-[![MasterHead]([https://wallpaperaccess.com/full/2825704.gif](https://c.tenor.com/FIlAXMHf8vsAAAAS/naruto-background.gif))](https://github.com/jonnfrancis)
+[![MasterHead](https://miro.medium.com/max/960/1*0cHiIxV9J5VyI908q_v43g.gif)](https://github.com/jonnfrancis)
 <h1 align="center">Hi 👋, I'm John Francis</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
