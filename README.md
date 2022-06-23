@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 <img align="right" alt="John francis github profile" width="400" src="https://images.unsplash.com/photo-1547658718-1cdaa0852790?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8c2NyZWVufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60">
 
-- 🔭 I’m currently working on [tripplesee](https://github.com/jonnfrancis/jonnfrancis.github.io)
+- 🔭 I’m currently working on [tripplesee](https://www.tripplesee.com/)
 
 - 🌱 I’m currently learning **React Native**
 
