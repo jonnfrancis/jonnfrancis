@@ -1,8 +1,8 @@
-[![MasterHead](https://images.unsplash.com/photo-1627483262268-9c2b5b2834b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1670&h=600&q=80)](https://github.com/jonnfrancis)
+[![MasterHead](https://images.unsplash.com/photo-1627483262268-9c2b5b2834b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1670&h=400&q=80)](https://github.com/jonnfrancis)
 
 <h1 align="center">Hi 👋, I'm John Francis</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
-<img align="right" alt="John francis github profile" width="400" src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&h=400&q=80">
+<img align="right" alt="John francis github profile" width="400" src="https://images.unsplash.com/photo-1547658718-1cdaa0852790?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8c2NyZWVufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60">
 
 - 🔭 I’m currently working on [tripplesee](https://github.com/jonnfrancis/jonnfrancis.github.io)
 
