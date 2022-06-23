@@ -1,6 +1,8 @@
-[![MasterHead](https://miro.medium.com/max/960/1*0cHiIxV9J5VyI908q_v43g.gif)](https://github.com/jonnfrancis)
+[![MasterHead](https://images.unsplash.com/photo-1627483262268-9c2b5b2834b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1670&h=400&q=80)](https://github.com/jonnfrancis)
+
 <h1 align="center">Hi 👋, I'm John Francis</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
+<img align="right" alt="John francis github profile" width="400" src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&h=400&q=80">
 
 - 🔭 I’m currently working on [tripplesee](https://github.com/jonnfrancis/jonnfrancis.github.io)
 
