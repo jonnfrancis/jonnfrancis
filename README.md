@@ -1,4 +1,4 @@
-[![MasterHead](https://images.unsplash.com/photo-1627483262268-9c2b5b2834b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1670&h=400&q=80)](https://github.com/jonnfrancis)
+[![MasterHead](https://images.unsplash.com/photo-1627483262268-9c2b5b2834b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1670&h=600&q=80)](https://github.com/jonnfrancis)
 
 <h1 align="center">Hi 👋, I'm John Francis</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
