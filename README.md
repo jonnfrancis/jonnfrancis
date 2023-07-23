@@ -11,6 +11,40 @@
 - 👨‍💻 All of my projects are available at [https://github.com/jonnfrancis](https://github.com/jonnfrancis)
 
 - 📫 How to reach me **johnmosima7@gmail.com**
+- ### Hi there! 👋 I'm John Francis.
+
+Welcome to my GitHub profile! I'm a passionate web developer with a love for coding and creating impactful web experiences. Constantly exploring new technologies and seeking opportunities to learn and grow, I'm dedicated to building clean, efficient, and user-friendly applications.
+
+#### 🌐 Web Technologies & Tools:
+
+- HTML5
+- CSS3 / SASS
+- JavaScript / ES6+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Git
+- Visual Studio Code
+
+#### 🔭 Currently Working On:
+
+I'm currently working on enhancing my skills in React.js and diving deeper into backend development with Node.js and Express.js. Additionally, I'm exploring the world of data visualization and UI/UX design to create even more captivating projects.
+
+#### 🌱 Learning Goals:
+
+In the near future, I plan to explore TypeScript, GraphQL, and continue honing my skills in responsive web design and accessibility to build inclusive web applications that reach a wider audience.
+
+#### 📫 Let's Connect:
+
+I'm always open to collaborating on exciting projects or discussing web development ideas. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/johnfrancisdev)!
+
+#### 📸 View My Portfolio:
+
+Check out my portfolio website to see some of my latest projects and designs: [www.johnfrancis.dev](https://www.johnfrancis.dev)
+
+Let's build the web together! 🚀
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
