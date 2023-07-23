@@ -125,9 +125,6 @@ Check out my portfolio website to see some of my latest projects and designs: [w
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonnfrancis&show_icons=true&locale=en&layout=compact" alt="jonnfrancis" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonnfrancis&show_icons=true&locale=en" alt="jonnfrancis" /></p>
