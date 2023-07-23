@@ -1,8 +1,8 @@
-[![MasterHead](https://images.unsplash.com/photo-1627483262268-9c2b5b2834b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1670&h=400&q=80)](https://github.com/jonnfrancis)
+[![MasterHead]([https://images.unsplash.com/photo-1627483262268-9c2b5b2834b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1670&h=400&q=80](https://images.unsplash.com/photo-1546146830-2cca9512c68e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1480&q=80))](https://github.com/jonnfrancis)
 
 <h1 align="center">Hi 👋, I'm John Francis</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
-<img align="right" alt="John francis github profile" width="400" src="https://images.unsplash.com/photo-1547658718-1cdaa0852790?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8c2NyZWVufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60">
+<img align="right" alt="John francis github profile" width="400" src="[https://images.unsplash.com/photo-1547658718-1cdaa0852790?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8c2NyZWVufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60](https://images.unsplash.com/photo-1608306448197-e83633f1261c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80)">
 
 - 🔭 I’m currently working on [tripplesee](https://www.tripplesee.com/)
 
