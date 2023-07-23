@@ -108,20 +108,9 @@ Check out my portfolio website to see some of my latest projects and designs: [w
 
 <br/>  
 
-  
 
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonnfrancis&show_icons=true&locale=en&layout=compact" alt="jonnfrancis" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonnfrancis&" alt="jonnfrancis" /></p>
 
 
