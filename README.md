@@ -31,7 +31,7 @@ FRONT-END | UI DESIGNER
 - I'm always open to collaborating on exciting projects or discussing web development ideas. Feel free to connect with me on [Instagram](https://www.instagram.com/designed.by_.jf)!  
   
 
-<img src="https://github.com/jonnfrancis/jonnfrancis/blob/main/lauren-mancke-aOC7TSLb1o8-unsplash.jpg" align="left" height="" width="600" />  
+<img src="https://github.com/jonnfrancis/jonnfrancis/blob/main/lauren-mancke-aOC7TSLb1o8-unsplash.jpg" align="left" height="" width="100%" />  
   
 
 
