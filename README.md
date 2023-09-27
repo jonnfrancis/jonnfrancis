@@ -37,7 +37,7 @@ FRONT-END | UI DESIGNER
 
 
 ### 📸 View My Portfolio:  
-Check out my portfolio website to see some of my latest projects and designs: [www.johnfrancis.com](https://www.jonnfrancis.github.io)  
+Check out my portfolio website to see some of my latest projects and designs: [www.johnfrancis.com](https://jonnfrancis.github.io/)
   
 
 <br/>  
