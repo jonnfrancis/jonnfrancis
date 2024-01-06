@@ -31,7 +31,7 @@ FRONT-END | UI DESIGNER
 - I'm always open to collaborating on exciting projects or discussing web development ideas. Feel free to connect with me on [Instagram](https://www.instagram.com/designed.by_.jf)!  
   
 
-<img src="https://github.com/jonnfrancis/jonnfrancis/blob/main/banner.png" align="left" height="" width="100%" />  
+<img src="https://github.com/jonnfrancis/jonnfrancis/blob/main/Banner.png" align="left" height="" width="100%" />  
   
 
 
