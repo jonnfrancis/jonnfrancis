@@ -3,7 +3,7 @@
 ### JOHN FRANCIS 
 FRONT-END | UI DESIGNER  
 <div align="center">
-<img src="https://github.com/jonnfrancis/jonnfrancis/blob/main/Black%20and%20White%20Modern%20Textured%20Software%20Development%20Portfolio%20Presentation.png" align="center" style="width: 100%" />
+<img src="https://github.com/jonnfrancis/jonnfrancis/blob/main/johnfrancisdev.png" align="center" style="width: 100%" />
 </div>  
   
 
